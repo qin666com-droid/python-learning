@@ -1,0 +1,72 @@
+[
+  {
+    "id": "AI001",
+    "title": "LangChain入门与实践",
+    "author": "李智慧",
+    "total": 8,
+    "available": 8
+  },
+  {
+    "id": "AI002",
+    "title": "LangGraph构建智能Agent",
+    "author": "王浩帆",
+    "total": 5,
+    "available": 5
+  },
+  {
+    "id": "AI003",
+    "title": "MCP协议从零实战",
+    "author": "张子轩",
+    "total": 6,
+    "available": 6
+  },
+  {
+    "id": "AI004",
+    "title": "大模型Tool Calling开发指南",
+    "author": "刘明远",
+    "total": 7,
+    "available": 7
+  },
+  {
+    "id": "AI005",
+    "title": "RAG技术与应用",
+    "author": "赵子涵",
+    "total": 10,
+    "available": 10
+  },
+  {
+    "id": "AI006",
+    "title": "Prompt Engineering权威指南",
+    "author": "孙一凡",
+    "total": 12,
+    "available": 12
+  },
+  {
+    "id": "AI007",
+    "title": "向量数据库实战",
+    "author": "陈思琪",
+    "total": 4,
+    "available": 4
+  },
+  {
+    "id": "AI008",
+    "title": "Transformer架构深度解析",
+    "author": "吴宇轩",
+    "total": 6,
+    "available": 6
+  },
+  {
+    "id": "AI009",
+    "title": "大模型微调技术详解",
+    "author": "林语晨",
+    "total": 9,
+    "available": 9
+  },
+  {
+    "id": "AI010",
+    "title": "Agentic Workflow设计模式",
+    "author": "郭子睿",
+    "total": 5,
+    "available": 5
+  }
+]

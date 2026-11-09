@@ -1,0 +1,67 @@
+[
+  {
+    "card_no": "V001",
+    "password": "482910",
+    "name": "沈星辞",
+    "role": "VipMember",
+    "vip_level": 6
+  },
+  {
+    "card_no": "M002",
+    "password": "736152",
+    "name": "林初雪",
+    "role": "NormalMember"
+  },
+  {
+    "card_no": "V003",
+    "password": "998877",
+    "name": "顾云舒",
+    "role": "VipMember",
+    "vip_level": 9
+  },
+  {
+    "card_no": "M004",
+    "password": "124589",
+    "name": "苏以默",
+    "role": "NormalMember"
+  },
+  {
+    "card_no": "M005",
+    "password": "556677",
+    "name": "江清舟",
+    "role": "NormalMember"
+  },
+  {
+    "card_no": "V006",
+    "password": "889900",
+    "name": "楚望舒",
+    "role": "VipMember",
+    "vip_level": 10
+  },
+  {
+    "card_no": "M007",
+    "password": "112233",
+    "name": "夏语晨",
+    "role": "NormalMember"
+  },
+  {
+    "card_no": "V008",
+    "password": "445566",
+    "name": "陆子衿",
+    "role": "VipMember",
+    "vip_level": 8
+  },
+  {
+    "card_no": "M009",
+    "password": "778899",
+    "name": "叶南絮",
+    "role": "NormalMember"
+  },
+  {
+    "card_no": "V010",
+    "password": "332211",
+    "name": "秦墨白",
+    "role": "VipMember",
+    "vip_level": 4
+  }
+]
