@@ -39,7 +39,7 @@ print("*"*10)
 my_list = [i for i in range(10000000)]
 my_gt3 = (i for i in range(10000000))
 print(type(my_list),type(my_gt3))
-
+ 
 #查看内存空间占用
 print(f'my_list: {sys.getsizeof(my_list)}')     #89095160
 print(f'my_gt3: {sys.getsizeof(my_gt3)}')       #200
